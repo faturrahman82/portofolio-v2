@@ -2,7 +2,6 @@ import { SkillsCard } from "../../components/atoms";
 import { dataSkills } from "../../lib/data";
 import { motion } from "framer-motion";
 import { SectionHeader } from "@/components/organisms/Sectionheader/Sectionheader";
-import { SectionMotion } from "@/common/motion/section";
 import { IconCodeCircle } from "@tabler/icons-react";
 
 const fadeInAnimationVariants = {
@@ -20,7 +19,6 @@ const fadeInAnimationVariants = {
 };
 
 export default function SkilsPage() {
-  const { section } = SectionMotion;
 
   
 

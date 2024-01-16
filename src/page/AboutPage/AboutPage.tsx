@@ -1,5 +1,5 @@
-import React from "react";
-import { IconCloudFilled, IconLeaf, IconMoodSmile } from "@tabler/icons-react";
+
+import { IconLeaf } from "@tabler/icons-react";
 import { motion } from "framer-motion";
 import { SectionMotion } from "@/common/motion/section";
 import { SectionHeader } from "@/components/organisms/Sectionheader/Sectionheader";

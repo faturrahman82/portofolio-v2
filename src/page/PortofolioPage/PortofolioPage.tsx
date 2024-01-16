@@ -1,4 +1,4 @@
-import React from "react";
+
 import { dataPorto } from "../../lib/data";
 import { PortofolioCard } from "../../components/atoms";
 import { SectionMotion } from "@/common/motion/section";

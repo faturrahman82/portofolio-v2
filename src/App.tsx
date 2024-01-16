@@ -1,4 +1,4 @@
-import { useState } from "react";
+
 import { Route, Routes } from "react-router-dom";
 import { AboutPage, ContactPage, HomePage, PortofolioPage, SkilsPage } from "./page";
 import { NavBar } from "./components/organisms";

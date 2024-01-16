@@ -1,4 +1,4 @@
-import { IconBrandBootstrap, IconBrandCss3, IconBrandHtml5, IconBrandJavascript, IconBrandReact, IconBrandTailwind, IconBrandTypescript } from "@tabler/icons-react";
+import { IconBrandBootstrap, IconBrandCss3, IconBrandHtml5, IconBrandJavascript, IconBrandTailwind, IconBrandTypescript } from "@tabler/icons-react";
 import hookFormImg from "../../assets/react-hook-form.svg";
 import react from "../../assets/react.svg";
 import tanstack from "../../assets/tanstack.svg";
