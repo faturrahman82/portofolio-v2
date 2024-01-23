@@ -23,7 +23,7 @@ export default function NavBar() {
   return (
     <motion.header className="w-full sticky md:px-20 top-0 bg-g ray-950 z-20 flex text-white items-center justify-between p-4 mb-5">
       <Link to="/" onClick={() => setActivePage(0)}>
-        <motion.div initial={{ y: -100 }} animate={{ y: 0 }} transition={{ delay: 0.1 }} className="flex items-center space-x-2 font-bold text-md md:text-3xl">
+        <motion.div initial={{ y: -100 }} animate={{ y: 0 }} transition={{ delay: 0.1 }} className="flex items-center space-x-2 font-bold text-xl md:text-3xl">
           <span>Fatur</span>
         </motion.div>
       </Link>
