@@ -29,7 +29,7 @@ export default function HomePage() {
             dengan pesat, oleh karena itu saya perlu lebih banyak lagi belajar.
           </p>
         </div>
-        <Link to="./Mau.pdf" target="_blank">
+        <Link to="./CV_Maulvi_Ilmullah_Faturrahman_Al_Afghani..pdf" target="_blank">
           <motion.div
             initial={resume.initial}
             animate={resume.animated}
