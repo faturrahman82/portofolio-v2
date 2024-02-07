@@ -16,7 +16,6 @@ import img2 from "../../assets/img2.png";
 import img3 from "../../assets/im3.png";
 import img4 from "../../assets/img4.png";
 import { INavLink } from "@/types/common";
-import React from "react";
 import { Briefcase, GraduationCap, Laptop } from "lucide-react";
 
 export const dataSkills = [

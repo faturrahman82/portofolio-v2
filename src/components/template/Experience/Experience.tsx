@@ -1,5 +1,4 @@
 import SectionHeading from "@/components/organisms/SectionHeading/SectionHeading";
-import { useTheme } from "@/lib/context/them-context";
 import { experiencesData } from "@/lib/data";
 import {
   VerticalTimeline,
